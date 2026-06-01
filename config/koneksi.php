@@ -4,7 +4,7 @@
 $host = 'localhost';
 $db   = 'db_splj';
 $user = 'root';
-$pass = '';
+$pass = 'parri100';
 $charset = 'utf8mb4';
 
 $options = [
